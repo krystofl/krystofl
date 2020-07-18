@@ -50,6 +50,9 @@ def get_blog_posts() -> str:
   for post in posts:
     ret += "- {}\n".format(post)
 
+  ret += "\nMore at [krystof.litomisky.com]" \
+         "(https://krystof.litomisky.com/?utm_source=krystofl_github)\n"
+
   return ret
 
 

@@ -15,5 +15,7 @@ I'm currently thinking about the future and what it needs -
 - [Daring Greatly - Book Notes](https://krystofl.github.io/2020/03/21/daring-greatly-book-notes/?utm_source=krystofl_github)
 - [Motorcycling Thailand - The Mae Hong Son Loop... and Then Some!](https://krystofl.github.io/2020/02/20/thailand/?utm_source=krystofl_github)
 
+More at [krystof.litomisky.com](https://krystof.litomisky.com/?utm_source=krystofl_github)
+
 
 Make it a great day!
