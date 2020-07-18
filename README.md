@@ -1,16 +1,15 @@
-### Hi there 👋
+![Krystof on an Adventure!](banner.jpg)
 
-<!--
-**krystofl/krystofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Howdy!
 
-Here are some ideas to get you started:
+I'm Krystof - engineer, adventurer, and all-around good guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently thinking about the future and what it needs -
+[let me know if you'd like to build something great](https://krystof.litomisky.com/contact/).
+
+More info about me is
+[here](https://krystof.litomisky.com/about/).
+
+Make it a great day!
+
+-- Krystof
