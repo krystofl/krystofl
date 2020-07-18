@@ -38,7 +38,9 @@ def get_blog_posts() -> str:
     title = post.find('title').text
     url   = post.find('link' ).text
 
-    md = '[{}]({})'.format(title, url)
+    url_with_utm = '{}?utm_source=krystofl_github'.format(url)
+
+    md = '[{}]({})'.format(title, url_with_utm)
     posts.append(md)
 
     if len(posts) >= NUM_POSTS:
