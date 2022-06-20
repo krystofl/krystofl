@@ -21,7 +21,7 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Software Posts
-- [Understanding Sign Language in Video with Software](https://krystof.litomisky.com/2021/02/21/ASL-understanding-in-video/?utm_source=krystofl_github)
+- [Understanding Sign Language in Video with AI / Machine Learning](https://krystof.litomisky.com/2021/02/21/ASL-understanding-in-video/?utm_source=krystofl_github)
 - [Contact Managers Suck: The Micelf Whitepaper](https://krystof.litomisky.com/2020/10/05/contact-managers-suck-micelf-whitepaper/?utm_source=krystofl_github)
 - [Programatically Creating Ubuntu Images with systemd\'s mkosi](https://krystof.litomisky.com/2020/09/08/mkosi-for-ubuntu/?utm_source=krystofl_github)
 - [Accelerate: Building and Scaling High-Performing Technology Organizations - Book Notes](https://krystof.litomisky.com/2020/04/06/accelerate-book-notes/?utm_source=krystofl_github)
