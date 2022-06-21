@@ -13,11 +13,11 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- [Zen, Suchness, and Sign Language](https://krystof.litomisky.com/2022/06/20/zen-suchness-sign-language/?utm_source=krystofl_github)
 - [Killing It](https://krystof.litomisky.com/2022/06/12/killing-it/?utm_source=krystofl_github)
 - [Finding Flow On Two Wheels](https://krystof.litomisky.com/2022/05/17/finding-flow-mtb/?utm_source=krystofl_github)
 - [Traveling around Cusco, Peru](https://krystof.litomisky.com/2022/02/12/peru/?utm_source=krystofl_github)
 - [Visiting Vinicunca](https://krystof.litomisky.com/2022/02/04/vinicunca/?utm_source=krystofl_github)
-- [Exploring the Mountains Around Cusco, Peru on a Motorcycle](https://krystof.litomisky.com/2022/01/29/exploring-around-cusco-peru-on-a-motorcycle/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
