@@ -13,11 +13,11 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- [Nonviolent Communication: Book Notes](https://krystof.litomisky.com/2022/10/31/nonviolent-communication/?utm_source=krystofl_github)
 - [Loonshots by Safi Bahcall - Book Notes](https://krystof.litomisky.com/2022/07/30/loonshots-book-notes/?utm_source=krystofl_github)
 - [Zen, Suchness, and Sign Language](https://krystof.litomisky.com/2022/06/20/zen-suchness-sign-language/?utm_source=krystofl_github)
 - [Killing It](https://krystof.litomisky.com/2022/06/12/killing-it/?utm_source=krystofl_github)
 - [Finding Flow On Two Wheels](https://krystof.litomisky.com/2022/05/17/finding-flow-mtb/?utm_source=krystofl_github)
-- [Traveling around Cusco, Peru](https://krystof.litomisky.com/2022/02/12/peru/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
