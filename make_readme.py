@@ -24,7 +24,7 @@ BLOG_TAGS_URL = 'https://krystof.litomisky.com/tags/'
 
 # number of blog posts to include in the most-recent list
 NUM_POSTS = 5
-NUM_SW_POSTS = 4
+NUM_SW_POSTS = 5
 
 
 class Blog_post():
