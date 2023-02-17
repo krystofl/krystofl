@@ -13,14 +13,15 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- [Advice for Computer Science College Students: an Interview](https://krystof.litomisky.com/2023/02/16/advice-for-college-students/?utm_source=krystofl_github)
 - [When You Say You Are Fucked, You Are Only 45% Fucked: Lessons on Leadership from Nims Purja](https://krystof.litomisky.com/2023/01/01/leadership-nims-purja/?utm_source=krystofl_github)
 - [Nonviolent Communication: Book Notes](https://krystof.litomisky.com/2022/10/31/nonviolent-communication/?utm_source=krystofl_github)
 - [Greece: Meteora, Delphi, Athens, and Kefalonia](https://krystof.litomisky.com/2022/08/28/greece/?utm_source=krystofl_github)
 - [Loonshots by Safi Bahcall - Book Notes](https://krystof.litomisky.com/2022/07/30/loonshots-book-notes/?utm_source=krystofl_github)
-- [Zen, Suchness, and Sign Language](https://krystof.litomisky.com/2022/06/20/zen-suchness-sign-language/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
+- [Advice for Computer Science College Students: an Interview](https://krystof.litomisky.com/2023/02/16/advice-for-college-students/?utm_source=krystofl_github)
 - [Understanding Sign Language in Video with AI / Machine Learning](https://krystof.litomisky.com/2021/02/21/ASL-understanding-in-video/?utm_source=krystofl_github)
 - [Contact Managers Suck: The Micelf Whitepaper](https://krystof.litomisky.com/2020/10/05/contact-managers-suck-micelf-whitepaper/?utm_source=krystofl_github)
 - [Programatically Creating Ubuntu Images with systemd\'s mkosi](https://krystof.litomisky.com/2020/09/08/mkosi-for-ubuntu/?utm_source=krystofl_github)
