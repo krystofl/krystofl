@@ -13,11 +13,11 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- [Life, Death, and Motorcycles](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/?utm_source=krystofl_github)
 - [Advice for Computer Science College Students: an Interview](https://krystof.litomisky.com/2023/02/16/advice-for-college-students/?utm_source=krystofl_github)
 - [When You Say You Are Fucked, You Are Only 45% Fucked: Lessons on Leadership from Nims Purja](https://krystof.litomisky.com/2023/01/01/leadership-nims-purja/?utm_source=krystofl_github)
 - [Nonviolent Communication: Book Notes](https://krystof.litomisky.com/2022/10/31/nonviolent-communication/?utm_source=krystofl_github)
 - [Greece: Meteora, Delphi, Athens, and Kefalonia](https://krystof.litomisky.com/2022/08/28/greece/?utm_source=krystofl_github)
-- [Loonshots by Safi Bahcall - Book Notes](https://krystof.litomisky.com/2022/07/30/loonshots-book-notes/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
