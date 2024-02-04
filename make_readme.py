@@ -326,9 +326,6 @@ if __name__ == '__main__':
       builder = Readme_builder(args)
       builder.build_readme()
 
-      # tweet, but only if appropriate
-      builder.tweet()
-
     except Exception as ex:
       CRITICAL("Exception: {}".format(ex))
       traceback.print_exc()
