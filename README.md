@@ -13,11 +13,11 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- [Hunt, Gather, Parent by Michaeleen Doucleff: Book Notes](https://krystof.litomisky.com/2024/03/31/hunt-gather-parent/?utm_source=krystofl_github)
 - [Introduction to Compute Hardware for Robotics for High School Students](https://krystof.litomisky.com/2024/02/01/compute-hardware-for-robotics/?utm_source=krystofl_github)
 - [Project Adelie - Modern Software for Modern Industry](https://krystof.litomisky.com/2023/05/21/Adelie-software/?utm_source=krystofl_github)
 - [Life, Death, and Motorcycles](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/?utm_source=krystofl_github)
 - [Advice for Computer Science College Students: an Interview](https://krystof.litomisky.com/2023/02/16/advice-for-college-students/?utm_source=krystofl_github)
-- [When You Say You Are Fucked, You Are Only 45% Fucked: Lessons on Leadership from Nims Purja](https://krystof.litomisky.com/2023/01/01/leadership-nims-purja/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
