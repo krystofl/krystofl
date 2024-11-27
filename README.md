@@ -13,11 +13,11 @@ I’m a versatile big-picture guy, and I love taking great ideas and turning the
 
 
 ### Latest Blog Posts
+- ["Krystof Reads Every Day"](https://krystof.litomisky.com/2024/11/26/krystof-reads-every-day/?utm_source=krystofl_github)
 - [Nick Slaughter, Pepa, and Making Friends With Your Fists](https://krystof.litomisky.com/2024/09/25/making-friends-with-fists/?utm_source=krystofl_github)
 - [Two More Weeks in Japan](https://krystof.litomisky.com/2024/08/04/japan/?utm_source=krystofl_github)
 - [Kumano Kodo](https://krystof.litomisky.com/2024/07/23/kumano-kodo/?utm_source=krystofl_github)
 - [Hunt, Gather, Parent by Michaeleen Doucleff: Book Notes](https://krystof.litomisky.com/2024/03/31/hunt-gather-parent/?utm_source=krystofl_github)
-- [Introduction to Compute Hardware for Robotics for High School Students](https://krystof.litomisky.com/2024/02/01/compute-hardware-for-robotics/?utm_source=krystofl_github)
 
 
 ### Latest Software Posts
